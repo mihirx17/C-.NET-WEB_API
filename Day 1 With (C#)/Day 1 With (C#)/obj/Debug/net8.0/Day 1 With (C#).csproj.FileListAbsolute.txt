@@ -1,0 +1,15 @@
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\bin\Debug\net8.0\Day 1 With (C#).exe
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\bin\Debug\net8.0\Day 1 With (C#).deps.json
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\bin\Debug\net8.0\Day 1 With (C#).runtimeconfig.json
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\bin\Debug\net8.0\Day 1 With (C#).dll
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\bin\Debug\net8.0\Day 1 With (C#).pdb
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).AssemblyInfoInputs.cache
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).AssemblyInfo.cs
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).csproj.CoreCompileInputs.cache
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).sourcelink.json
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).dll
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\refint\Day 1 With (C#).dll
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).pdb
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\Day 1 With (C#).genruntimeconfig.cache
+C:\Users\mihir\OneDrive\Desktop\C#\Day 1 With (C#)\Day 1 With (C#)\obj\Debug\net8.0\ref\Day 1 With (C#).dll

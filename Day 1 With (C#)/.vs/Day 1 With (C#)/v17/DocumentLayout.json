@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 1 With (C#)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935915F2-7D90-416B-B3AF-201527F54EF2}|Day 1 With (C#)\\Day 1 With (C#).csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 1 with (c#)\\day 1 with (c#)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935915F2-7D90-416B-B3AF-201527F54EF2}|Day 1 With (C#)\\Day 1 With (C#).csproj|solutionrelative:day 1 with (c#)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 1 With (C#)\\Day 1 With (C#)\\Program.cs",
+              "RelativeDocumentMoniker": "Day 1 With (C#)\\Program.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 1 With (C#)\\Day 1 With (C#)\\Program.cs",
+              "RelativeToolTip": "Day 1 With (C#)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:06:46.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
