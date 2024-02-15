@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\demo(constructor)\\demo(constructor)\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|solutionrelative:demo(constructor)\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\demo(constructor)\\demo(constructor)\\demo(constructor).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|solutionrelative:demo(constructor)\\demo(constructor).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\demo(constructor)\\demo(constructor)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|solutionrelative:demo(constructor)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\demo(constructor)\\demo(constructor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205115FC-780A-4DCE-AA9A-7F55BBE2997E}|Demo(Constructor)\\Demo(Constructor).csproj|solutionrelative:demo(constructor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Class2.cs",
+              "RelativeDocumentMoniker": "Demo(Constructor)\\Class2.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Class2.cs",
+              "RelativeToolTip": "Demo(Constructor)\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:37:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo(Constructor)",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Demo(Constructor).csproj",
+              "RelativeDocumentMoniker": "Demo(Constructor)\\Demo(Constructor).csproj",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Demo(Constructor).csproj",
+              "RelativeToolTip": "Demo(Constructor)\\Demo(Constructor).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T16:32:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Class1.cs",
+              "RelativeDocumentMoniker": "Demo(Constructor)\\Class1.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Class1.cs",
+              "RelativeToolTip": "Demo(Constructor)\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:25:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Program.cs",
+              "RelativeDocumentMoniker": "Demo(Constructor)\\Program.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Demo(Constructor)\\Demo(Constructor)\\Program.cs",
+              "RelativeToolTip": "Demo(Constructor)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:18:26.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
