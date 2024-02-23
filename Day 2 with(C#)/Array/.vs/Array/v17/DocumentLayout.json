@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\array\\array\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|solutionrelative:array\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\array\\array\\array.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|solutionrelative:array\\array.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\array\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38C6AB8-DA07-445A-9AC4-DD263C4AF7C8}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Class1.cs",
+              "RelativeDocumentMoniker": "Array\\Class1.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Class1.cs",
+              "RelativeToolTip": "Array\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:30:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Array.csproj",
+              "RelativeDocumentMoniker": "Array\\Array.csproj",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Array.csproj",
+              "RelativeToolTip": "Array\\Array.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-18T10:27:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\Array\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:12:17.319Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
