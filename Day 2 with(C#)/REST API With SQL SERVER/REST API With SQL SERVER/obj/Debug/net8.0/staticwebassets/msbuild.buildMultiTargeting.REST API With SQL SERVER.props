@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REST API With SQL SERVER.props" />
+</Project>
