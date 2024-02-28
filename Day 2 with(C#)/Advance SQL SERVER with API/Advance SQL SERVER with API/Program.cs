@@ -1,10 +1,11 @@
 using Advance_SQL_SERVER_with_API.Data;
+using Microsoft.DotNet.Scaffolding.Shared.CodeModifier.CodeChange;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<StudentDBcontext>(options =>
-    options.UseSqlServer("Data Source=MIHIR\\SQLSERVER_2;Initial Catalog=Student_Info;Integrated Security=True;Trust Server Certificate=True"));
+    options.UseSqlServer("Data Source=MIHIR\\SQLSERVER_2;Initial Catalog=Testing_Random;Integrated Security=True;Trust Server Certificate=True"));
 
 Log.Logger = new LoggerConfiguration().
     MinimumLevel.Information().

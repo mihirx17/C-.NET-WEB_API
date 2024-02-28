@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advance SQL SERVER with API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ab6f2ee2345ae038fc5caeee5d696fdbd05460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a99223b0f96c90ebd94411d68e582d645d03c7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advance SQL SERVER with API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advance SQL SERVER with API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
