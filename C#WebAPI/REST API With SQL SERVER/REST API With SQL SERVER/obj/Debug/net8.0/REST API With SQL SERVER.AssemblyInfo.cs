@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REST API With SQL SERVER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ade06b944c9f0892357bcd941aea12ab4ca885e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ab6f2ee2345ae038fc5caeee5d696fdbd05460")]
 [assembly: System.Reflection.AssemblyProductAttribute("REST API With SQL SERVER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REST API With SQL SERVER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

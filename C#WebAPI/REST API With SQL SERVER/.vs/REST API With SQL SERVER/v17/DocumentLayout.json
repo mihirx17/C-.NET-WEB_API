@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\",
+  "WorkspaceRootPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\rest api with sql server\\rest api with sql server\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\rest api with sql server\\rest api with sql server\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\rest api with sql server\\rest api with sql server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\day 2 with(c#)\\rest api with sql server\\rest api with sql server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\data\\collagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\migrations\\20240224060143_adddatatostudentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\migrations\\20240224060143_adddatatostudentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|c:\\users\\mihir\\onedrive\\desktop\\c#\\c#webapi\\rest api with sql server\\rest api with sql server\\migrations\\20240224053848_initialdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4963E21B-7CD0-45F9-895B-9B83C7B353AD}|REST API With SQL SERVER\\REST API With SQL SERVER.csproj|solutionrelative:rest api with sql server\\migrations\\20240224053848_initialdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +34,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20240224060143_AddDataToStudentsTable.cs",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
               "RelativeToolTip": "REST API With SQL SERVER\\Migrations\\20240224060143_AddDataToStudentsTable.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA5wCsAAAAFAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T06:01:43.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20240224053848_InitialDBSetup.cs",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
               "RelativeToolTip": "REST API With SQL SERVER\\Migrations\\20240224053848_InitialDBSetup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T05:38:48.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-24T05:38:48.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\appsettings.json",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\appsettings.json",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\appsettings.json",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\appsettings.json",
               "RelativeToolTip": "REST API With SQL SERVER\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -77,37 +76,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Program.cs",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\Program.cs",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Program.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Program.cs",
               "RelativeToolTip": "REST API With SQL SERVER\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACGAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAACGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T05:13:47.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CollageDBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
               "RelativeToolTip": "REST API With SQL SERVER\\Data\\CollageDBcontext.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAswCUAAAAfAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T05:04:06.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\Student.cs",
               "RelativeDocumentMoniker": "REST API With SQL SERVER\\Data\\Student.cs",
-              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\Data\\Student.cs",
               "RelativeToolTip": "REST API With SQL SERVER\\Data\\Student.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAwA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

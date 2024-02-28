@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj": {}
+    "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj": {
+    "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj",
+        "projectUniqueName": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj",
         "projectName": "REST API With SQL SERVER",
-        "projectPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj",
+        "projectPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\REST API With SQL SERVER.csproj",
         "packagesPath": "C:\\Users\\mihir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\Day 2 with(C#)\\REST API With SQL SERVER\\REST API With SQL SERVER\\obj\\",
+        "outputPath": "C:\\Users\\mihir\\OneDrive\\Desktop\\C#\\C#WebAPI\\REST API With SQL SERVER\\REST API With SQL SERVER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mihir\\AppData\\Roaming\\NuGet\\NuGet.Config",
