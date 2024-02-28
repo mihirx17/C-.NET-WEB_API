@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Advance_SQL_SERVER_with_API.Data;
+using Serilog;
 
 namespace Advance_SQL_SERVER_with_API.Controllers
 {
@@ -31,6 +32,7 @@ namespace Advance_SQL_SERVER_with_API.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<IEnumerable<Student>>> Getstudents()
         {
+
             return await _context.students.ToListAsync();
             
         }
@@ -56,8 +58,14 @@ namespace Advance_SQL_SERVER_with_API.Controllers
         // PUT: api/Students/5
         
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutStudent(int id, Student student)
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> PutStudent(Guid id, Student student)
         {
+            // Do:
+            Log.Information("The time is {Now}", DateTime.Now);
             if (id != student.id)
             {
                 return BadRequest();
@@ -87,6 +95,10 @@ namespace Advance_SQL_SERVER_with_API.Controllers
         // POST: api/Students
         
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<Student>> PostStudent(Student student)
         {
             _context.students.Add(student);
@@ -97,7 +109,11 @@ namespace Advance_SQL_SERVER_with_API.Controllers
 
         // DELETE: api/Students/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteStudent(int id)
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> DeleteStudent(Guid id)
         {
             var student = await _context.students.FindAsync(id);
             if (student == null)
@@ -111,7 +127,7 @@ namespace Advance_SQL_SERVER_with_API.Controllers
             return NoContent();
         }
 
-        private bool StudentExists(int id)
+        private bool StudentExists(Guid id)
         {
             return _context.students.Any(e => e.id == id);
         }

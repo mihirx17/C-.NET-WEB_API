@@ -16,13 +16,13 @@ namespace Advance_SQL_SERVER_with_API.Data
             {
                 new Student
                 {
-                    id = 1,
+                    id = Guid.NewGuid(),
                     name="Test",
                     age=21
                 },
                 new Student
                 {
-                    id = 2 ,
+                    id = Guid.NewGuid() ,
                     name="Test2",
                     age=22
                 }
